@@ -41,6 +41,8 @@ https://gd.060610.xyz/rtp/239.77.0.22:5146
 https://gd.060610.xyz/rtp/239.77.0.122:5146
 #EXTINF:-1 tvg-id="" tvg-name="现代教育" tvg-logo="" group-title="未分类",现代教育
 https://gd.060610.xyz/rtp/239.77.0.213:5146
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="" group-title="未分类",翡翠台
+https://gd.060610.xyz/rtp/239.77.1.107:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
 https://gd.060610.xyz/rtp/239.77.0.86:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
