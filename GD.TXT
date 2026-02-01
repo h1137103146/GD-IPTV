@@ -23,7 +23,7 @@ CCTV16 4K,https://gd.060610.xyz/udp/239.77.0.165:5146
 嘉佳卡通高清,https://gd.060610.xyz/udp/239.77.0.179:5146
 CCTV-1超清,https://gd.060610.xyz/udp/239.77.0.129:5146
 CCTV-2高清,https://gd.060610.xyz/udp/239.77.1.158:5146
-CCTV-3超清,https://gd.060610.xyz/udp/239.77.0.175:5146
+CCTV-3超清,https://gd.060610.xyz/rtp/239.77.0.169:5146
 CCTV-4高清,https://gd.060610.xyz/udp/239.77.0.78:5146
 CCTV-5超清,https://gd.060610.xyz/rtp/239.77.0.170:5146
 CCTV-5+高清,https://gd.060610.xyz/udp/239.77.0.87:5146
